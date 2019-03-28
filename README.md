@@ -1,2 +1,2 @@
 # ngimu-plotting-scripts
-MATLAB repository for scripts handling incoming NGIMU data. 
+MATLAB-based repository for scripts handling incoming NGIMU data. 
